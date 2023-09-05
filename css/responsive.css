@@ -1,0 +1,10 @@
+@media (max-width:1140) {
+    .image img {
+        width: 500px;
+        margin-top: 69px;
+    }
+    .imagetext {
+        padding-left: 83px;
+        box-sizing: border-box;
+    }
+}
